@@ -1,4 +1,4 @@
-package OOPJ_Code.DAY2.overloading_protection.workshop;
+package OOPJ_Code.DAY2.overloading_protection.workshop1;
 
 public class Adder {
     // overloading for integer addition

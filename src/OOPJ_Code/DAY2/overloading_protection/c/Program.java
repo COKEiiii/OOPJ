@@ -23,6 +23,7 @@ public class Program {
     static void IncPassByVal(int x) {
         System.out.println("In IncPassByVal()");
         System.out.printf("-- Before increment, x = %d\n", x);
+        x++;
         System.out.printf("-- After increment, x = %d\n", x);
     }
 }
